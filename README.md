@@ -1,0 +1,2 @@
+# SmartobjectBar
+smart bar object
